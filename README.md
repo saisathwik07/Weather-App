@@ -7,7 +7,7 @@ A responsive Weather Application built using **HTML, CSS, and JavaScript** that 
 ## 🚀 Live Demo
 
 🔗 **Live Link:**  
-https://yourusername.github.io/repository-name/
+[https://yourusername.github.io/repository-name/](https://github.com/saisathwik07/Weather-App)
 
 > Replace the above URL after enabling GitHub Pages.
 
