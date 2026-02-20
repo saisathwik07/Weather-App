@@ -80,5 +80,5 @@ const apiKey = "f81e73e537c6869e5eeea7fa53265542";
 
 1. Clone this repository:
 
-
+https://github.com/saisathwik07/Weather-App
 
